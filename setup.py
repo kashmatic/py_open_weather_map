@@ -5,7 +5,7 @@ from setuptools import setup
 
 setup(
     name="pyopenweatherapp",
-    version="0.2.1",
+    version="0.1",
     include_package_data=True,
     install_requires=[
         'requests',
